@@ -7,7 +7,6 @@
   padding: 0px;
   color: #515076;
   box-sizing: border-box;
-  /* padding-left:  25px; */
 }
 
 .product-card-container {
@@ -31,7 +30,7 @@
   display: block;
   padding-top: 21px;
   padding-bottom: 5px;
-  color: #A5A3B9
+  color: #A5A3B9;
 }
 
 .product-name {
