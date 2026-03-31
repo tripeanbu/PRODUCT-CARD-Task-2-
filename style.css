@@ -12,14 +12,14 @@
 
 .product-card-container {
   width: 340px;
-  height: 573px;
+  height: 545px;
   box-shadow: 2px 2px 10px 0px #5150761A;
   background-color: #F7F7FA;
   padding-left: 25px;
 }
 
 .product-image {
-  padding: 25px 25px 0px 0px;
+  padding: 25px 0px 0px 0px;
   width: 290px;
   height: 245px;
 }
@@ -29,7 +29,7 @@
   line-height: 24px;
   text-transform: uppercase;
   display: block;
-  padding-top: 20px;
+  padding-top: 21px;
   padding-bottom: 5px;
   color: #A5A3B9
 }
@@ -50,7 +50,7 @@
 
 .compound-list {
   margin-top: 5px;
-  margin-left: 14px;
+  margin-left: 15px;
   margin-bottom: 25px;
   list-style-type: circle;
 }
@@ -108,4 +108,10 @@
   background-repeat: no-repeat;
   left: 0px;
   top: -411px;
+}
+
+.compound-list-inner {
+  width: 237px;
+  height: 18px;
+  margin-bottom: 5px;
 }
